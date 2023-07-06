@@ -1,5 +1,5 @@
 {
-  "name": "media-library",
+  "name": "goodprints-media-library",
   "version": "0.0.1",
   "description": "A MediaLibrary component library",
   "main": "./dist/fileName.umd.js",
